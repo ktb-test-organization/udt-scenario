@@ -1,1 +1,2 @@
-hello, I'm personal_statement.
+# 자기 소개
+안녕 친구들, 난 성현이라고 해. 잘부탁한다.
