@@ -1,3 +1,7 @@
 자격증: 정보처리기능사
 대외활동: 없음
 사용기술: python, express.js, react, aws, docker
+경력: 신입
+학력: 대졸
+이름: 박성현
+나이: 26
